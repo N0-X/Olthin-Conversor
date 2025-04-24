@@ -5,24 +5,24 @@ const taxas = {
     trocado: {
         trocado: 1,
         prata: 0.02,
-        dobrão: 0.0004,
-        platina: 0.000004
+        dobrão: 0.0002,
+        platina: 0.000002
     },
     prata: {
         trocado: 50,
         prata: 1,
-        dobrão: 0.02,
-        platina: 0.0002
+        dobrão: 0.01,
+        platina: 0.0001
     },
     dobrão: {
-        trocado: 2500,
-        prata: 50,
+        trocado: 5000,
+        prata: 100,
         dobrão: 1,
         platina: 0.01
     },
     platina: {
-        trocado: 250000,
-        prata: 5000,
+        trocado: 500000,
+        prata: 10000,
         dobrão: 100,
         platina: 1
     }
